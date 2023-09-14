@@ -5,8 +5,8 @@
 - 🌱 Estudando atualmente na Fatec Ipiranga - ADS
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraBatista04&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraBatista04&layout=compact&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraBatista04&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraBatista04&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Danillo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
