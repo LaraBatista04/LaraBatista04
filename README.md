@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:89004f&height=210&section=header&text=Lara%20Batista&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front/Back-End%20Developer&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:89004f&height=210&section=header&text=Lara%20Batista&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=FullStack%20Developer&descAlignY=50">
 
 ##
 - 🌱 Formada na Fatec Ipiranga - ADS
