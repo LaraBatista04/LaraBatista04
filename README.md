@@ -2,7 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:89004f&height=210&section=header&text=Lara%20Batista&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Front/Back-End%20Developer&descAlignY=50">
 
 ##
-- 🌱 Estudando atualmente na Fatec Ipiranga - ADS
+- 🌱 Formada na Fatec Ipiranga - ADS
+- 💼 Trabalhando atualmente na Unimais
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraBatista04&show_icons=true&theme=dracula)
