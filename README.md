@@ -28,18 +28,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraBatista04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaraBatista04&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraBatista04&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraBatista04&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LaraBatista04&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=LaraBatista04&theme=tokyonight"/>
 
 </div>
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
