@@ -27,16 +27,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaraBatista04&theme=tokyonight">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaraBatista04&theme=tokyo-night"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LaraBatista04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraBatista04&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
+<br>
+
 <div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaraBatista04&theme=tokyo-night" alt="Activity Graph" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=LaraBatista04&theme=tokyonight"/>
+<br>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LaraBatista04&theme=tokyonight" alt="GitHub Streak" />
 </div>
 ---
 
