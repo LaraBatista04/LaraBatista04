@@ -27,20 +27,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaraBatista04&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraBatista04&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaraBatista04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraBatista04&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaraBatista04&amp;theme=tokyo-night" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaraBatista04&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LaraBatista04&amp;theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=LaraBatista04&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
